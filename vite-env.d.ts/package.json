@@ -1,11 +1,11 @@
 {
-  "name": "vite-env.d.ts",
+  "name": "01-ts-basics",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build",
+    "build": "vite build",
     "preview": "vite preview"
   },
   "devDependencies": {
